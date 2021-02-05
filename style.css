@@ -1,0 +1,22 @@
+.bgbrwn{
+    background-color: rgb(80, 45, 8);
+    
+}
+.bg-image{
+    background-image: url(https://www.mobygames.com/images/promo/original/fb23eb0fd2da4716a662e685dd09aa7c.jpg);
+    height: 60vh;
+    background-size: cover;
+}
+.bggrn{
+    background-color: rgb(34, 74, 39);
+}
+.brwn{
+    color:rgb(80, 45, 8)
+}
+@media (min-width: 576px) {
+    .hanging{
+    position: relative;
+    top:12%;
+    left:20%;
+    }
+ }
