@@ -21,6 +21,8 @@
     }
  }
  .green{
-    color: rgb(34, 74, 39);
-    
+    color: rgb(34, 74, 39);  
+ }
+ .slickfont{
+    font-family: 'Abril Fatface', cursive;
  }
